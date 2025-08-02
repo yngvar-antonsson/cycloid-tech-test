@@ -1,0 +1,4 @@
+providers:
+  openmeteo: {}
+  weatherapi:
+    APIKey: "ed79e888bc6e466082b164539250208"
